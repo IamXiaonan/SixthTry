@@ -1,0 +1,1 @@
+PODS_SIXTHTRY_AFNETWORKING_OTHER_LDFLAGS = -framework "CoreGraphics" -framework "MobileCoreServices" -framework "Security" -framework "SystemConfiguration"
